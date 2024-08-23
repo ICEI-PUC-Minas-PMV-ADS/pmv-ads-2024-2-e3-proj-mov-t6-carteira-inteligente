@@ -1,23 +1,26 @@
-# TÍTULO DO PROJETO
+# Carteira Inteligente
 
-`CURSO`
+`CURSO - Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`DISCIPLINA - Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio - Eixo 3 - Turma 06 - 2024/2`
 
-`SEMESTRE`
+`2º SEMESTRE - Eixo 3`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O Software "CARTEIRA-INTELIGENTE" é um aplicativo mobile projetado para ser um auxiliar no gerenciamento das finanças pessoais. Ele oferece aos usuários uma interface intuitiva e que ajudará na visualização, análise e organização de suas finanças de maneira prática.
+A "CARTEIRA-INTELIGENTE" será uma ferramenta acessível para que os usuários possam gerenciar suas finanças pessoais com dados e clareza, ajudando-os na organização e na tomada de decisões financeiras, dando a eles a capacidade de se visualizarem seu fluxo de caixa e investimentos, possibilitando uma melhor estratégia para o médio e longo prazo.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Henrique Caramez Telles
+* Breno Vinícius Oliva Flores
+* Guilherme Patrick Santos Alves
+* Gabriel Matozinho Pereira
+* Nico Rocha da Costa
+* José Lucas dos Santos
 
 ## Orientador
 
-* Nome completo do professor 1
+* Sinaide Nunes Bezerra
 
 ## Instruções de utilização
 
