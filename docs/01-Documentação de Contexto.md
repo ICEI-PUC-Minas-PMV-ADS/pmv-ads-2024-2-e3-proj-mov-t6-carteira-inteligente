@@ -1,43 +1,42 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+No cenário atual, a atualização e inovação constante tornaram-se essenciais para a população. Assim como o domínio do inglês, a habilidade de gestão financeira tornou-se indispensável para manter o equilíbrio econômico e alcançar objetivos ao longo da vida. De acordo com a Agência Brasil, no Brasil, cerca de 77,4% das famílias estão endividadas e aproximadamente 30% enfrentam inadimplência. Este problema atinge todas as classes sociais, tornando a gestão financeira uma tarefa desafiadora. O projeto "Carteira-Inteligente" surge como uma solução para facilitar esse processo, oferecendo ferramentas para visualização, análise e um auxiliar na criação de estratégias eficazes na gestão financeira familiar.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Para gerir efetivamente as finanças, é fundamental que a pessoa tenha uma visão clara de onde estão seus gastos, ganhos e como seus investimentos se comportam no médio e longo prazo. O problema que esse software irá resolver será a falta dessa visualização que limita a percepção financeira, levando os gastos pessoais das pessoas ao foco exclusivo no curto prazo. A "Carteira-Inteligente" se propõe a solucionar esse problema, oferecendo uma ferramenta que apresenta, por meio de números, dados e gráficos, o fluxo de caixa e o impacto dos investimentos ao longo do tempo, ajudando o usuário na tomada de decisões financeiras mais estratégicas.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+### Objetivo Geral
+* Desenvolver um software, denominado "Carteira-Inteligente", que auxiliará os usuários na visualização, análise e planejamento de suas finanças pessoais, promovendo uma gestão financeira mais eficaz e contribuindo para uma jornada financeira pela vida mais fácil e para uma aposentadoria tranquila e digna.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+### Objetivos Específicos
+* Proporcionar uma interface amigável para o cadastro e monitoramento de todas as fontes de renda do usuário, incluindo trabalho, investimentos e empreendimentos.
+* Facilitar o registro e a categorização de despesas, permitindo uma análise detalhada de onde e como o dinheiro é gasto.
+* Oferecer ferramentas de análise financeira que permitam aos usuários visualizar a evolução de seu caixa e a performance de seus investimentos ao longo do tempo.
+* Incentivar o hábito de investimento regular, mostrando de forma clara o impacto positivo de se organizar e o possível crescimento do patrimônio caso seja somado uma estratégia de investimento eficaz aos dados visualizados.
+* Criar um ambiente personalizado que atenda às necessidades específicas de cada usuário, garantindo que a "CARTEIRA-INTELIGENTE" seja uma ferramenta prática e adaptável à realidade financeira individual.
+* Oferecer uma funcionalidade de análise setorial, onde os usuários podem dividir seus investimentos por setores econômicos e monitorar a porcentagem de cada setor na carteira, promovendo o equilíbrio e a diversificação.
+* Alertar os usuários sobre desequilíbrios em sua carteira de investimentos, uma vez que foi criada um planejamento de investimentos, sugerindo aportes nos setores mais desequilibrados para manter a estabilidade financeira da estratégia.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+A criação da "Carteira-Inteligente" se justifica pela necessidade urgente de auxiliar a população a gerenciar suas finanças de maneira mais eficaz. Com um cenário onde 77,4% das famílias estão endividadas e cerca de 30% são inadimplentes (AGÊNCIA BRASIL, 2024), há uma clara demanda por ferramentas que possam auxiliar na organização financeira, reduzir dívidas e prevenir inadimplência. Além disso, o planejamento financeiro adequado é fundamental para preparar as pessoas para uma aposentadoria digna, especialmente em um contexto onde as mudanças nas regras previdenciárias aumentam a idade mínima para aposentadoria e o valor das pensões muitas vezes não cobre as despesas básicas do beneficário, sendo na maioria das vezes, recorrer a ajuda de outros familiárias para compor suas despesas mensais. (AGÊNCIA BRASIL, 2024).
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A "Carteira-Inteligente" oferece uma solução prática e acessível para esses desafios, permitindo que os usuários não apenas melhorem sua situação financeira atual através da visualização e organização de como e para onde seu dinheiro é ganho e gasto, mas também para que se preparem melhor para o futuro. Ao facilitar o controle do fluxo de caixa, o monitoramento de investimentos e a análise setorial, o software promove uma gestão financeira mais prática, essencial para a construção de um vida melhor e uma aposentadoria segura e confortável.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+A "Carteira-Inteligente" foi desenvolvido para atender às necessidades de um público diversificado, que compartilha o objetivo comum de alcançar uma gestão financeira mais eficiente e segura. Entre os principais públicos-alvo, destacam-se:
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+* Trabalhadores Ativos: Para controlar gastos, acompanhar investimentos e planejar o futuro de forma estratégica. 
+* Investidores Iniciantes: Para monitorar e entregar dados sobre seus investimentos, mantendo um portfólio equilibrado.
+* Famílias Endividadas: Para organizar finanças do dia-a-dia, reduzir dívidas e evitar inadimplência.
+* Futuros Aposentados: Para planejar uma aposentadoria segura e garantir estabilidade financeira a longo prazo.
+  
+A "Carteira-Inteligente" é, portanto, uma solução abrangente que atende a diferentes perfis, todos com o objetivo comum de alcançar uma gestão financeira mais eficaz e segura, seja para resolver problemas imediatos ou para garantir um futuro financeiramente estável.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
