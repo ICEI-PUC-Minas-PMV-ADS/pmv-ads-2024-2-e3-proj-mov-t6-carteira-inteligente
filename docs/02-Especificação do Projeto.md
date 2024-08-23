@@ -2,17 +2,21 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Nesta parte do documento, fornecemos uma visão geral das áreas que serão discutidas, enfatizando as técnicas e ferramentas aplicadas na formulação das especificações do projeto.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+|NOME  | PERFIL  |OBJETIVOS | FRUSTRAÇÃO | MOTIVAÇÕES | 
+| ------------ | -------------- |------------ | ------------ | -------- | 
+| *Pedro Mendes* | Idade: 32 anos Ocupação: Engenheiro e microempreendedor no ramo de roupas esportivas.| Pretende se casar e construir uma família, mas reconhece a necessidade de alcançar estabilidade financeira para realizar esse plano.| Pedro desistiu da bolsa por falta de confiança e tem dificuldades em gerenciar suas finanças devido ao uso de vários aplicativos simultaneamente, dificultando a visualização de todas suas rendas e despesas | Pedro quer se preparar financeiramente para o casamento e a família, buscando investimentos seguros e uma solução que unifique os dados de suas finanças.
+| *Lucas Hipolito* | Idade: 34 anos Ocupação:Trader-Esportivo e investidor Crypto.| Busca criar fontes de renda estáveis e melhorar a administração de seu dinheiro, especialmente para garantir que seus lucros mensais sejam superiores aos seus gastos.| Lucas possui fontes de renda instáveis através das apostas esportivas e investimento em criptomoedas, dificultando o equilíbrio entre ganhos e despesas e por conta disso ficando no vermelho em alguns meses, exigindo portanto, melhor controle financeiro. | Lucas busca uma ferramenta para visualizar seus dados financeiros, gerir melhor suas finanças, identificar meses de 
+ necessidade de maior controle de gastos e melhorar seu pode de decisão nos investimento.
+| *Junia Cristina* | Idade: 46 anos Ocupação: Faxineira.| Tem como sonho formar todas as filhas, apesar das dificuldades financeiras que enfrenta para sustentar a casa.| Júnia sustenta a casa com uma renda modesta, sendo necessário a ajuda de três filhas de suas filhas, porém, tem dificuldade em organizar o orçamento mensal. | Júnia quer um futuro melhor para suas filhas e precisa de uma ferramenta simples, visto que não possui familiaridade com tecnologia, e que a ajude a organizar as finanças do mes e que os dados possam ser compartilhados com suas filhas para que juntas controlem os gastos do mês.
+| *Rafael Silva Chavier* | Idade: 21 anos Ocupação: Estudante - Estagiando.|  Tornar-se um desenvolvedor e empresário.| Rafael quer investir em conhecimento, mas não sobra dinheiro ao fim do mês. Encontra dificuldades para administrar seu salário. | Rafael quer melhorar sua gestão financeira para investir em educação, e busca uma ferramenta melhor que o Excel para gerenciar os ganhos e gastos do mês.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
 > **Links Úteis**:
+> 
 > - [Rock Content](https://rockcontent.com/blog/personas/)
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
 > - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
@@ -28,8 +32,20 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+| Pedro Mendes | Unificar todas as informações bancárias em um único lugar  | Para facilitar a visualização e gestão centralizada das finanças.|
+| Pedro Mendes | Organizar as finanças para garantir estabilidade | Para se preparar para o casamento futuramente família.|
+| Pedro Mendes | Melhor visualização de seus investimentos em ativos | Para que se organize melhor a cada aporte |
+| Lucas Hipolito | Quer uma maneira facil de acompanhar seus rendimentos mensais | Para entender melhor seu fluxo de caixa mensal.|
+| Lucas Hipolito | Precisa identificar os meses em que suas despesas superam os ganhos | Para cortar o que precisa ser cortado ou diminuir em suas despesas |
+| Lucas Hipolito | Quer visualizar seus investimentos em criptomoedas e futuramente ações  | Para acompanhar o desempenho e tomar decisões mais informadas. |
+| Lucas Hipolito | Precisa de uma visão clara de todas as suas finanças em um único lugar | Para facilitar o controle |
+| Junia Cristina | Registrar o orçamento da casa, entradas e saídas, incluindo os de suas filhas | Para no fim do mês ficar no positivo |
+| Junia Cristina | Identificar onde está gastando mais e se é possível realizar cortes ou diminuições se possível | Para equilibrar as contas no fim do mês |.
+| Junia Cristina | Júnia precisa de uma ferramenta que possa ser facilmente compartilhada com suas filhas | Algo que todas possam ver e se estimular na ajuda do controle das finanças |
+| Junia Cristina | Júnia quer um aplicativo simples e acessível | Porque não possui experiência com tecnologia |
+| Rafael Silva Chavier | Rafael precisa organizar suas despesas de forma eficiente | para garantir que sobre algum dinheiro no final do mês.|
+| Rafael Silva Chavier | Rafael quer uma ferramenta mais intuitiva que o Excel | Para facilitar seu gerenciamento |
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
