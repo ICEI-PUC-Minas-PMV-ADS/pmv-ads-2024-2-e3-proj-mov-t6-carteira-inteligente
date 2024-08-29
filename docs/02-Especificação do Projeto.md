@@ -104,7 +104,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|--------------------------------------|----|
-|RNF-001| O sistema deve ser responsivo e funcionar corretamente em dispositivos móveis (IOS E Android.| ALTA | 
+|RNF-001| O sistema deve ser responsivo e funcionar corretamente em dispositivos móveis (IOS E Android).| ALTA | 
 |RNF-002| As operações do sistema, como cadastros e geração de relatórios, devem ser processadas em no máximo 3 segundos. | MEDIA | 
 |RNF-003| O sistema deve garantir a segurança dos dados financeiros do usuário.| ALTA |
 |RNF-004| O sistema deve suportar diferentes perfis de usuário, permitindo personalização de acordo com as necessidades individuais. | MEDIA |
