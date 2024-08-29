@@ -9,21 +9,22 @@ Para gerir efetivamente as finanças, é fundamental que a pessoa tenha uma vis�
 ## Objetivos
 
 ### Objetivo Geral
-* Desenvolver um software, denominado "Carteira-Inteligente", que auxiliará os usuários na visualização, análise e planejamento de suas finanças pessoais, promovendo uma gestão financeira mais eficaz e contribuindo para uma jornada financeira pela vida mais fácil e para uma aposentadoria tranquila e digna.
+* Desenvolver um software para auxiliar os usuários na visualização, análise e planejamento de suas finanças pessoais. Uma consequência direta é a promoção de uma gestão financeira mais eficaz que contribui para uma jornada financeiramente mais tranquila com a possibilidade de uma aposentadoria digna.
 
 ### Objetivos Específicos
-* Proporcionar uma interface amigável para o cadastro e monitoramento de todas as fontes de renda do usuário, incluindo trabalho, investimentos e empreendimentos.
-* Facilitar o registro e a categorização de despesas, permitindo uma análise detalhada de onde e como o dinheiro é gasto.
+* Proporcionar o cadastro e monitoramento de todas as fontes de renda do usuário, incluindo trabalho, investimentos e empreendimentos.
+* Facilitar o registro e a categorização das despesas e permitir uma análise detalhada dos gastos pessoais.
 * Oferecer ferramentas de análise financeira que permitam aos usuários visualizar a evolução de seu caixa e a performance de seus investimentos ao longo do tempo.
 * Incentivar o hábito de investimento regular, mostrando de forma clara o impacto positivo de se organizar e o possível crescimento do patrimônio caso seja somado uma estratégia de investimento eficaz aos dados visualizados.
-* Criar um ambiente personalizado que atenda às necessidades específicas de cada usuário, garantindo que a "CARTEIRA-INTELIGENTE" seja uma ferramenta prática e adaptável à realidade financeira individual.
+* Criar um ambiente personalizado que atenda às necessidades específicas de cada usuário, com a garantia que seja uma ferramenta prática e adaptável a realidade financeira individual.
 * Oferecer uma funcionalidade de análise setorial, onde os usuários podem dividir seus investimentos por setores econômicos e monitorar a porcentagem de cada setor na carteira, promovendo o equilíbrio e a diversificação.
-* Alertar os usuários sobre desequilíbrios em sua carteira de investimentos, uma vez que foi criada um planejamento de investimentos, sugerindo aportes nos setores mais desequilibrados para manter a estabilidade financeira da estratégia.
+* Alertar os usuários sobre desequilíbrios em sua carteira de investimentos a partir do planejamento de investimentos criado.
+  
 
 ## Justificativa
 
 
-A criação da "Carteira-Inteligente" se justifica pela necessidade urgente de auxiliar a população a gerenciar suas finanças de maneira mais eficaz. No cenário brasileiro atual com boa parte das famílias endividadas, há uma clara demanda por ferramentas que possam auxiliar na organização financeira, reduzir dívidas e prevenir inadimplência. Além disso, o planejamento financeiro adequado é fundamental para preparar as pessoas para uma aposentadoria digna, especialmente em um contexto onde as mudanças nas regras previdenciárias aumentam a idade mínima para aposentadoria e o valor das pensões muitas vezes não cobre as despesas básicas do beneficário, sendo na maioria das vezes, recorrer a ajuda de outros familiárias para compor suas despesas mensais. (AGÊNCIA BRASIL, 2024).
+A criação da "Carteira-Inteligente" se justifica pela necessidade de auxiliar a população a gerenciar suas finanças de maneira mais eficaz. No cenário brasileiro atual com boa parte das famílias endividadas, pertecebe-se uma elevada demanda por ferramentas que possam auxiliar na organização financeira, reduzir dívidas e prevenir inadimplência. Além disso, o planejamento financeiro adequado é fundamental para preparar as pessoas para uma aposentadoria digna, especialmente em um contexto onde as mudanças nas regras previdenciárias aumentam a idade mínima para aposentadoria e o valor das pensões muitas vezes não cobre as despesas básicas do beneficário, sendo na maioria das vezes, recorrer a ajuda de outros familiárias para compor suas despesas mensais. (AGÊNCIA BRASIL, 2024).
 
 A "Carteira-Inteligente" oferece uma solução prática e acessível para esses desafios, permitindo que os usuários não apenas melhorem sua situação financeira atual através da visualização e organização de como e para onde seu dinheiro é ganho e gasto, mas também para que se preparem melhor para o futuro. Ao facilitar o controle do fluxo de caixa, o monitoramento de investimentos e a análise setorial, o software promove uma gestão financeira mais prática, essencial para a construção de um vida melhor e uma aposentadoria segura e confortável.
 
@@ -32,7 +33,7 @@ A "Carteira-Inteligente" oferece uma solução prática e acessível para esses 
 A "Carteira-Inteligente" foi desenvolvido para atender às necessidades de um público diversificado, que compartilha o objetivo comum de alcançar uma gestão financeira mais eficiente e segura. Entre os principais públicos-alvo, destacam-se:
 
 * Trabalhadores Ativos: Para controlar gastos, acompanhar investimentos e planejar o futuro de forma estratégica. 
-* Investidores Iniciantes: Para monitorar e entregar dados sobre seus investimentos, mantendo um portfólio equilibrado.
+* Investidores Iniciantes: Para monitorar e entregar dados sobre seus investimentos.
 * Famílias Endividadas: Para organizar finanças do dia-a-dia, reduzir dívidas e evitar inadimplência.
 * Futuros Aposentados: Para planejar uma aposentadoria segura e garantir estabilidade financeira a longo prazo.
   
