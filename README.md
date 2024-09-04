@@ -17,7 +17,7 @@ A "CARTEIRA-INTELIGENTE" será uma ferramenta acessível para que os usuários p
 * Gabriel Matozinho Pereira
 * Nico Rocha da Costa
 * José Lucas dos Santos
-* Bernardo Alvez
+* Bernardo Alves Sirqueira
 
 ## Orientador
 
