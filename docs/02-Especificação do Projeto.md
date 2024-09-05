@@ -156,7 +156,25 @@ A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualizaç
 
 A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
 
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
+
+| Requisito                          | RF-001 | RF-002 | RF-003 | RF-004 | RF-005 | RF-006 | RF-007 | RF-008 | RF-009 | RNF-001 | RNF-002 | RNF-003 | RNF-004 | RNF-005 | RNF-006 |
+|------------------------------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|---------|---------|---------|---------|---------|---------|
+| RF-001 Cadastro e monitoramento de fontes de renda |        |        |        |        |        |        |        |  X     |  X     |         |         |         |         |         |         |
+| RF-002 Registro e categorização de despesas       |        |        |  X     |        |        |        |        |  X     |  X     |         |         |         |         |         |         |
+| RF-003 Alertas sobre limites de despesas          |        |  X     |        |        |        |        |        | X      |        |         |         |         |         |         |         |
+| RF-004 Alertas sobre desequilíbrios de investimentos |       |        |        |        |  X     |  X     |        |        |        |         |         |         |         |         |         |
+| RF-005 Análise setorial de investimentos          |        |        |        |  X     |        |  X     |        |        |        |         |         |         |         |         |         |
+| RF-006 Alertas de desequilíbrios em investimentos |        |        |        |        |  X     |        |        |        |        |         |         |         |         |         |         |
+| RF-007 Cópia de cadastros                         |  X     |  X     |        |        |        |        |        |        |        |         |         |         |         |         |         |
+| RF-008 Alteração de dados                         |  X     |  X     |  X     |        |        |        |        |        |        |         |         |         |         |         |         |
+| RF-009 Compartilhamento de dados                  |  X     |  X     |        |        |        |        |        |        |        |         |         |         |         |         |         |
+| RNF-001 Responsividade do sistema                 |        |        |        |        |        |        |        |        |        |         |         |         |         |         |         |
+| RNF-002 Processamento rápido                      |        |        |        |        |        |        |        |        |        |         |         |         |         |         |         |
+| RNF-003 Segurança dos dados                       |        |        |        |        |        |        |        |        |        |         |         |         |         |         |         |
+| RNF-004 Suporte a diferentes perfis de usuário    |  X     |  X     |        |        |        |        |        |        |        |         |         |         |         |         |         |
+| RNF-005 Escalabilidade                            |        |        |        |        |        |        |        |        |        |         |         |         |         |         |         |
+| RNF-006 Alta disponibilidade                      |        |        |        |        |        |        |        |        |        |         |         |         |         |         |         |
+
 
 > **Links Úteis**:
 > - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
