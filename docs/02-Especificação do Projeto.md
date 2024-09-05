@@ -97,23 +97,24 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| Permitir que o usuário cadastre e monitore todas as suas fontes de renda, incluindo trabalho, investimentos e empreendimentos.| ALTA | 
 |RF-002| Permitir o registro e a categorização detalhada das despesas pessoais.| ALTA |
 |RF-003| Alertar ao usuário quando os limites estabelicidos nas despesas forem ultrapassados| ALTA |
-|RF-004| Alertar o usuário sobre desequilíbrios em sua carteira de investimentos com base em um planejamento pré-definido.| MÉDIA |
-|RF-005| Oferecer uma funcionalidade de análise setorial para divisão de investimentos por setores econômicos.| MÉDIA |
-|RF-006| Alertar o usuário sobre desequilíbrios em sua carteira de investimentos com base em um planejamento pré-definido.|MÉDIA|
-|RF-007| Permitir que o usuário faça uma Copia dos cadastros já realizados.| ALTA |
-|RF-008| Permitir que o usuário faça alterações aos dados já cadastrados.| ALTA |
-|RF-009| Possibilitar que os dados cadastrados sejam compartilháveis.| ALTA |
+|RF-004| Permitir que o usuário faça uma Copia dos cadastros já realizados.| ALTA |
+|RF-005| Permitir que o usuário faça alterações aos dados já cadastrados.| ALTA |
+|RF-006| Possibilitar que os dados cadastrados sejam compartilháveis.| ALTA |
+|RF-007| Alertar o usuário sobre desequilíbrios em sua carteira de investimentos com base em um planejamento pré-definido.| MÉDIA |
+|RF-008| Oferecer uma funcionalidade de análise setorial para divisão de investimentos por setores econômicos.| MÉDIA |
+|RF-009| Alertar o usuário sobre desequilíbrios em sua carteira de investimentos com base em um planejamento pré-definido.|MÉDIA|
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|--------------------------------------|----|
 |RNF-001| O sistema deve ser responsivo e funcionar corretamente em dispositivos móveis (IOS E Android).| ALTA | 
-|RNF-002| As operações do sistema, como cadastros e geração de relatórios, devem ser processadas em no máximo 3 segundos. | MEDIA | 
+|RNF-002| O sistema deve garantir a segurança dos dados financeiros do usuário.| ALTA |
 |RNF-003| O sistema deve garantir a segurança dos dados financeiros do usuário.| ALTA |
-|RNF-004| O sistema deve suportar diferentes perfis de usuário, permitindo personalização de acordo com as necessidades individuais. | MEDIA |
-|RNF-005| O sistema deve ser capaz de escalar para suportar um grande número de usuários simultâneos sem perda significativa de desempenho. | ALTA | 
-|RNF-006| O sistema deve ter disponibilidade de 99,9%, com um plano de recuperação de falhas que garanta a continuidade do serviço. | ALTA |
+|RNF-004| O sistema deve ser capaz de escalar para suportar um grande número de usuários simultâneos sem perda significativa de desempenho. | ALTA | 
+|RNF-005| O sistema deve ter disponibilidade de 99,9%, com um plano de recuperação de falhas que garanta a continuidade do serviço. | ALTA |
+|RNF-006| As operações do sistema, como cadastros e geração de relatórios, devem ser processadas em no máximo 3 segundos. | MEDIA |
+|RNF-007| O sistema deve suportar diferentes perfis de usuário, permitindo personalização de acordo com as necessidades individuais. | MEDIA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
