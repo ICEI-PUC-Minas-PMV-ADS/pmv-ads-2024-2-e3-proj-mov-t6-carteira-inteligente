@@ -2,7 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Nesta parte do documento, fornecemos uma visão geral das áreas que serão discutidas, enfatizando as técnicas e ferramentas aplicadas na formulação das especificações do projeto.
+As especificações do projeto foram desenvolvidas através de análise detalhada das necessidades dos usuários baixo. As informações coletadas abaixo foram criadas com base em dados reais de personas previamente identificadas. Os dados foram coletados através de entrevista realizadas pelos membros da equipe de desenvolvimento.
 
 ## Personas
 
@@ -12,18 +12,6 @@ Nesta parte do documento, fornecemos uma visão geral das áreas que serão disc
 | *Lucas Hipolito* | Idade: 34 anos Ocupação:Trader-Esportivo e investidor Crypto.| Busca criar fontes de renda estáveis e melhorar a administração de seu dinheiro, especialmente para garantir que seus lucros mensais sejam superiores aos seus gastos.| Lucas possui fontes de renda instáveis através das apostas esportivas e investimento em criptomoedas, dificultando o equilíbrio entre ganhos e despesas e por conta disso ficando no vermelho em alguns meses, exigindo portanto, melhor controle financeiro. | Lucas busca uma ferramenta para visualizar seus dados financeiros, gerir melhor suas finanças, identificar meses de necessidade de maior controle de gastos e melhorar seu pode de decisão nos investimento.
 | *Junia Cristina* | Idade: 46 anos Ocupação: Faxineira.| Tem como sonho garantir a graduação de suas filhas, apesar das dificuldades financeiras.| Júnia sustenta a casa com uma renda modesta, sendo necessário a constribuição financeira de suas filhas, porém, tem dificuldade em organizar o orçamento mensal. | Júnia quer um futuro melhor para suas filhas e precisa de uma ferramenta simples, visto que não possui familiaridade com tecnologia, e que a ajude a organizar as finanças do mes e que os dados possam ser compartilhados com suas filhas para que juntas controlem os gastos do mês.
 | *Rafael Silva Chavier* | Idade: 21 anos Ocupação: Estudante - Estagiando.|  Tornar-se um desenvolvedor e empresário.| Rafael quer investir em conhecimento, mas não sobra dinheiro ao fim do mês. Encontra dificuldades para administrar seu salário. | Rafael quer melhorar sua gestão financeira para investir em educação, e busca uma ferramenta melhor que o Excel para gerenciar os ganhos e gastos do mês.
-
-
-> **Links Úteis**:
-> 
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
@@ -45,15 +33,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | Rafael Silva Chavier | Rafael precisa organizar suas despesas de forma eficiente | para garantir que sobre algum dinheiro no final do mês.|
 | Rafael Silva Chavier | Rafael quer uma ferramenta mais intuitiva que o Excel | Para facilitar seu gerenciamento |
 
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Modelagem do Processo de Negócio 
 
