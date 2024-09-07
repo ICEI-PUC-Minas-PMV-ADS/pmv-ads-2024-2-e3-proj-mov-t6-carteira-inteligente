@@ -7,8 +7,8 @@
 
 `2º SEMESTRE - Eixo 3`
 
-O Software "CARTEIRA-INTELIGENTE" é um aplicativo mobile projetado para ser um auxiliar no gerenciamento das finanças pessoais. Ele oferece aos usuários uma interface intuitiva e que ajudará na visualização, análise e organização de suas finanças de maneira prática.
-A "CARTEIRA-INTELIGENTE" será uma ferramenta acessível para que os usuários possam gerenciar suas finanças pessoais com dados e clareza, ajudando-os na organização e na tomada de decisões financeiras, dando a eles a capacidade de se visualizarem seu fluxo de caixa e investimentos, possibilitando uma melhor estratégia para o médio e longo prazo.
+O Software "PoupançaPro" é um aplicativo mobile projetado para ser um auxiliar no gerenciamento das finanças pessoais. Ele oferece aos usuários uma interface intuitiva e que ajudará na visualização, análise e organização de suas finanças de maneira prática.
+O PoupançaPro é uma ferramenta acessível para que os usuários possam gerenciar suas finanças pessoais com dados e clareza, ajudando-os na organização e na tomada de decisões financeiras, dando a eles a capacidade de se visualizarem seu fluxo de caixa e investimentos, possibilitando uma melhor estratégia para o médio e longo prazo.
 
 ## Integrantes
 
