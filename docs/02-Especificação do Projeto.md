@@ -162,4 +162,14 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
 
-![Orçamento](img/02-orcamento.png)
+| Recursos Necessários | Valores  |
+| ------------ | -------------- |
+| Recursos Humanos | R$ 90.000,00 |
+| Serviços de nuvem | R$ 5.000,00 |
+| Seviços de Atendimento | R$ 8.000,00 |
+| Servidor e Rede | R$ 25.000,00 |
+| Aluguel de Ambiente fisico | R$ 5.000,00 |
+| Despesas do Ambiente fisico | R$ 2.000,00 |
+| Hardware | R$ 28.000,00 |
+| Software | R$ 15.000,00 |
+| TOTAL | R$ 178.000,00 |
