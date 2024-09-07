@@ -1,4 +1,5 @@
-# Carteira Inteligente
+# PoupançaPro
+![PoupançaPro](https://github.com/user-attachments/assets/85666ebd-763d-4cff-8688-7e2a4d0a5b6d)
 
 `CURSO - Análise e Desenvolvimento de Sistemas`
 
