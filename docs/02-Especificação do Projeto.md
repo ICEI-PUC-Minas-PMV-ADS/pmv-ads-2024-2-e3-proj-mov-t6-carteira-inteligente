@@ -58,12 +58,13 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 
 ## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
+|  INDICADOR  | OBJETIVOS | DESCRIÇÃO | CÁLCULO | FONTE DE DADOS | PERSPECTIVA | 
+| ------------ | -------------- |------------ | ------------ | -------- | -------- | 
+| Total de Cadastros | Avaliar a quantiade de usuários do aplicativo | Analisar o total de cadastros realizados | Crescimento do aplicativo | Plataforma em que o aplicativo foi cadastrado | Alcance e usuabilidade do aplicativo|
+| Total de rendas familiares cadastradas | Analise de quão intuitivo está o processo de cadastro de dados | Verficar se os usuários estão cadastrando seus dados | crescimento mensal de cadastro | servidor do aplicativo | Melhoria na intuitividade do aplicativo e desenvolvimento de melhor instruções para o cadastro |
+| Avaliação do aplicativo | Entender se o usuário está satisfeito com o aplicativo | Mede de 1 a 5 a satisfação do cliente | Quantidade de notas totais/ por quantidade de avaliações realizadas | Contador da plataforma que suporta o aplicativo | Buscar formas de melhorar o aplicativo |
+| Total de Reclamações | Avaliar a quantidade de relamações | avaliar a quantidade de reclamações | Quantidade de usuários/reclamações | Reclame aqui | Compreensão e melhoria dos motivos pelos quais ocorreram as reclamações |
 
-Usar o seguinte modelo: 
-
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
 
 ## Requisitos
 
