@@ -159,7 +159,7 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 |Função |   |  |
 | ------------ | -------------- |------------ |
-| Produt Owner | Henrique Caramez |
+| Product Owner | Henrique Caramez |
 | Scrum Master | Gabriel Matozinho Pereira |
 | Desenvolvedores | Nico Rocha da Costa | José Lucas dos Santos |
 | Realização de testes | Bernardo Alves Sirqueira | Breno Vinícius Oliva Flor |
