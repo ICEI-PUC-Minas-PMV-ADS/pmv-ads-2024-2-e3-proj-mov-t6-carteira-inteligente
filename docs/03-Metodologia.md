@@ -3,12 +3,21 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Nossa equipe utiliza ferramentas específicas tanto para o desenvolvimento quanto para a organização e manutenção do projeto. A interface está sendo desenvolvida nos sites Figma e Draw.io, onde o design pode sofrer ajustes e receber novos incrementos durante o processo.
+
+O GitHub é nossa principal ferramenta para armazenar os códigos e gerenciar o backlog do produto. Todas as informações e documentações estarão na pasta "doc" dentro do repositório do projeto .all.
 
 ## Relação de Ambientes de Trabalho
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
 Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+
+| **Ambiente**                     | **Plataforma**            | **Link de Acesso**                                                                                       |
+|-----------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Repositório de código fonte       | GitHub                    | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-poupancapro/edit/main/docs/03-Metodologia.md |
+| Documentos do projeto             | GitHub                    | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-poupancapro/tree/main/docs |
+| Projeto de Interface e Wireframes | Figma & Draw.io    | https://www.figma.com/ &    https://www.drawio.com/                                              |
+| Gerenciamento do Projeto          | GitHub To do               | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1257              |
 
 ## Controle de Versão
 
